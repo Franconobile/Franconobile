@@ -1,16 +1,22 @@
-### Hi there 👋
+![banner](https://64.media.tumblr.com/fad394d48eef73d55dc8ca6bce407f01/tumblr_o5a5r9Z9O71tvppquo1_1280.gif)
 
-<!--
-**Franconobile/Franconobile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm Franco! 👾
 
-Here are some ideas to get you started:
+🖥️ Hello world!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Just a student n.n
+
+Currently working on my projects!
+
+- :hammer_and_pick: HTML, CSS, JavaScript, Python (Studying it!).
+- VS Code.
+- :memo: [LinkedIn](https://www.linkedin.com/in/franco-ruben-nobile-55b562222/) | 📷 [IG](https://www.instagram.com/__noworriez/) | 👾 Discord: chiruu#8028
+
+<details>
+
+<summary>My GitHub Stats</summary>
+
+![Franconobile's github stats](https://github-readme-stats.vercel.app/api?username=Franconobile&theme=vue&show_icons=true)
+
+</details>
+
