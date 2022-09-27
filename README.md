@@ -8,7 +8,7 @@ Just a student n.n
 
 Currently working on my projects!
 
-- :hammer_and_pick: HTML, CSS, JavaScript, Python (Studying it!).
+- :hammer_and_pick: HTML, CSS, JavaScript, Python (Studying it!) REACT.
 - VS Code.
 - :memo: [LinkedIn](https://www.linkedin.com/in/franco-ruben-nobile-55b562222/) | 📷 [IG](https://www.instagram.com/__noworriez/) | 👾 Discord: chiruu#8028
 
