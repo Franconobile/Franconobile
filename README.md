@@ -8,7 +8,7 @@ Currently working on my projects!
 
 - :hammer_and_pick: HTML, CSS, JavaScript, Python (Studying it!) REACT.
 - VS Code.
-- :memo: [ItchIO](https://sakkuart.itch.io) | 📷 [IG](https://www.instagram.com/bloodsugarr_/) | 👾 Discord: sakku
+- :memo: [ItchIO](https://sakkuart.itch.io/) | 📷 [IG](https://www.instagram.com/bloodsugarr_/) | 👾 Discord: sakku
 
 <details>
 
