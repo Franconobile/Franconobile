@@ -1,16 +1,14 @@
 ![banner](https://64.media.tumblr.com/fad394d48eef73d55dc8ca6bce407f01/tumblr_o5a5r9Z9O71tvppquo1_1280.gif)
 
-## I'm Franco! 👾
+## Fran 👾
 
-🖥️ Hello world!
-
-Just a student n.n
+Trying to make stuff because it's fun
 
 Currently working on my projects!
 
 - :hammer_and_pick: HTML, CSS, JavaScript, Python (Studying it!) REACT.
 - VS Code.
-- :memo: [ItchIO]([https://www.linkedin.com/in/franco-ruben-nobile-55b562222/](https://sakkuart.itch.io)) | 📷 [IG](https://www.instagram.com/bloodsugarr_/) | 👾 Discord: sakku
+- :memo: [ItchIO](https://sakkuart.itch.io) | 📷 [IG](https://www.instagram.com/bloodsugarr_/) | 👾 Discord: sakku
 
 <details>
 
